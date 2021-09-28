@@ -25,7 +25,7 @@ body {
     /* max-width: 100%; */
     /* width: 800px; */
     /* max-height: 100%; */
-    height: 400px;
+    height: 500px;
 }
 
 .joke {
@@ -44,7 +44,57 @@ h1 {
   font-size: 3rem;
 }
 
-.btn {
+.programming {
+    background-color: #bee4ff;
+    color: #1e83ca;
+    border: 0;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+    padding: 14px 40px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.pun {
+    background-color: #bee4ff;
+    color: #1e83ca;
+    border: 0;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+    padding: 14px 40px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.misc {
+    background-color: #bee4ff;
+    color: #1e83ca;
+    border: 0;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+    padding: 14px 40px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.dark {
+    background-color: #bee4ff;
+    color: #1e83ca;
+    border: 0;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+    padding: 14px 40px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.random {
+    background-color: #bee4ff;
+    color: #1e83ca;
+    border: 0;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+    padding: 14px 40px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.christmas {
     background-color: #bee4ff;
     color: #1e83ca;
     border: 0;
