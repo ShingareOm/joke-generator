@@ -11,12 +11,12 @@ async function generatejokes(){
     )
     const data = await res.json();
     console.log(data)
-    // let joke = ""
+    let joke = ""
     // if(data.joke == undefined){
     //     joke = `${data.setup} <br/> ${data.delivery}`
     // }
     // else{
-    //     joke = data.joke
+        joke = data.joke
     // }
     jokeText.innerHTML = joke
 }

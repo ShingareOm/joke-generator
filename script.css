@@ -105,10 +105,32 @@ h1 {
     cursor: pointer;
 }
 
-.btn:active {
+
+.programming:active {
     transform: scale(0.95);
 }
 
-.btn:focus {
+.programming:focus {
+    outline: 0;
+}
+.random:active {
+    transform: scale(0.95);
+}
+
+.random:focus {
+    outline: 0;
+}
+.pun:active {
+    transform: scale(0.95);
+}
+
+.pun:focus {
+    outline: 0;
+}
+.christmas:active {
+    transform: scale(0.95);
+}
+
+.christmas:focus {
     outline: 0;
 }
