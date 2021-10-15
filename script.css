@@ -11,7 +11,7 @@
 }
 
 body {
-    background-color: #bee4ff;
+    background-color: #C7D6D5;
     font-family:'Courier New', Courier, monospace;
     display: flex;
     flex-direction: column;
@@ -34,6 +34,7 @@ body {
     /* width: 800px; */
     /* max-height: 100%; */
     height: 500px;
+    border: 1px solid black;
 }
 
 .joke {
@@ -47,14 +48,14 @@ body {
 }
 
 h1 {
-  color: rgb(49, 153, 250);  
+  color: #6D7275;  
   /* text-shadow: 1px 3px 4px #000000; */
   font-size: 3rem;
 }
 
 .programming {
-    background-color: #bee4ff;
-    color: #1e83ca;
+    background-color: #C5D9E2;
+    color: #000000;
     border: 0;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
     padding: 14px 40px;
@@ -63,8 +64,8 @@ h1 {
     cursor: pointer;
 }
 .pun {
-    background-color: #bee4ff;
-    color: #1e83ca;
+    background-color: #C5D9E2;
+    color: #000000;
     border: 0;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
     padding: 14px 40px;
@@ -73,8 +74,8 @@ h1 {
     cursor: pointer;
 }
 .misc {
-    background-color: #bee4ff;
-    color: #1e83ca;
+    background-color: #C5D9E2;
+    color: #000000;
     border: 0;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
     padding: 14px 40px;
@@ -83,8 +84,8 @@ h1 {
     cursor: pointer;
 }
 .dark {
-    background-color: #bee4ff;
-    color: #1e83ca;
+    background-color: #C5D9E2;
+    color: #000000;
     border: 0;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
     padding: 14px 40px;
@@ -93,8 +94,8 @@ h1 {
     cursor: pointer;
 }
 .random {
-    background-color: #bee4ff;
-    color: #1e83ca;
+    background-color: #C5D9E2;
+    color: #000000;
     border: 0;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
     padding: 14px 40px;
@@ -103,8 +104,8 @@ h1 {
     cursor: pointer;
 }
 .christmas {
-    background-color: #bee4ff;
-    color: #1e83ca;
+    background-color: #C5D9E2;
+    color: #000000;
     border: 0;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
     padding: 14px 40px;
@@ -141,4 +142,26 @@ h1 {
 
 .christmas:focus {
     outline: 0;
+}
+
+.programming:hover{
+    background-color: #b9c7c6;
+}
+.pun:hover{
+    background-color: #b9c7c6;
+}
+.christmas:hover{
+    background-color: #b9c7c6;
+}
+.misc:hover{
+    background-color: #b9c7c6;
+}
+.dark:hover{
+    background-color: #b9c7c6;
+}
+.random:hover{
+    background-color: #b9c7c6;
+}
+.programming:hover{
+    background-color: #b9c7c6;
 }
