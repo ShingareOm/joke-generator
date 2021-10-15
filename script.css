@@ -1,6 +1,14 @@
 * {
     box-sizing: border-box;
 }
+#copyright {
+	float: left;
+	padding-bottom: 10px;
+	padding-top: 30px;
+	text-align: center;
+	bottom: 0px;
+	width: 100%;
+}
 
 body {
     background-color: #bee4ff;
